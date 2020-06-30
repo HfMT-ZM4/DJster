@@ -17,17 +17,17 @@ Repository for the DJster software
 <div></div>
 <div>
 <blockquote>
-* pentatonic 0 200 400 700 900 1200
-* whole-tone 0 200 400 600 800 1000 1200
-* major 0 200 400 500 700 900 1100 1200
-* dorian 0 200 300 500 700 900 1000 1200
-* mixolydian 0 200 400 500 700 900 1000 1200
-* minor-harmonic 0 200 300 500 700 800 1100 1200
-* gipsy 0 200 300 600 700 900 1000 1200
-* phrygian 0 100 300 500 700 800 1000 1200
-* octatonic 0 200 300 500 600 800 900 1100 1200
-* whole-half-half 0 200 300 400 600 700 800 1000 1100 1200
-* chromatic 0 100 200 300 400 500 600 700 800 900 1000 1100 1200</blockquote>
+pentatonic 0 200 400 700 900 1200<div>
+whole-tone 0 200 400 600 800 1000 1200<div>
+major 0 200 400 500 700 900 1100 1200<div>
+dorian 0 200 300 500 700 900 1000 1200<div>
+mixolydian 0 200 400 500 700 900 1000 1200<div>
+minor-harmonic 0 200 300 500 700 800 1100 1200<div>
+gipsy 0 200 300 600 700 900 1000 1200<div>
+phrygian 0 100 300 500 700 800 1000 1200<div>
+octatonic 0 200 300 500 600 800 900 1100 1200<div>
+whole-half-half 0 200 300 400 600 700 800 1000 1100 1200<div>
+chromatic 0 100 200 300 400 500 600 700 800 900 1000 1100 1200</blockquote>
 </div>
 <div></div>
 <div>Each line contains the name of a scale and the cent values for the steps in between the frame at which the scale will be replicated, usually the octave.</div>
@@ -50,7 +50,7 @@ Repository for the DJster software
 3 3 3<div>
 2 2 2 2<div>
 2 2 2 3<div>
-<blockquote>
+</blockquote>
 Besides using 5, 7 or higher prime numbers, additive meters can also be represented by twos and threes combined by a plus sign, such as 2+3 or 3+2+2.
 
 You can create and load your own meter sets which will be displayed in the DJster meter menu.
