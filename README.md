@@ -82,7 +82,7 @@ Two playback devices are included from the <a href="http://www.computermusicnota
 	<li>LiveScore Fluidsynth2</li>
 	<li>LiveScore Sampler</li>
 </ul>
-LiveScore Fluidsynth2 opens most SoundFont 2 (.sf2) files (check for compatibility with your platform first), while LiveScore Sampler allowing you to create and use your own banks.  All banks must be in the Max search path to be accessible within Ableton Live. More information can be found <a href="http://www.computermusicnotation.com/?page_id=291" target="_blank">here</a>.
+LiveScore Fluidsynth2 opens most SoundFont 2 (.sf2) files (check for compatibility with your platform first), while LiveScore Sampler allowing you to create and use your own banks.  All banks must be in the Max search path to be accessible within Ableton Live.
 
 </div>
 </div>
