@@ -42,11 +42,17 @@ chromatic 0 100 200 300 400 500 600 700 800 900 1000 1100 1200</blockquote>
 <div>The basic.meters.txt contains the stratifications of a meter which is either multiplicative or additive. Strata only consist of prime number divisors, usually 2 and 3. A 4 meter will be represented as 2 2.</div>
 <div>
 <blockquote>2 2 2
+
 2 2 3
+
 3 2 3
+
 3 3 2
+
 3 3 3
+
 2 2 2 2
+
 2 2 2 3</blockquote>
 Besides using 5, 7 or higher prime numbers, additive meters can also be represented by twos and threes combined by a plus sign, such as 2+3 or 3+2+2.
 
