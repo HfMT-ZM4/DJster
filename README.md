@@ -16,17 +16,18 @@ Repository for the DJster software
 <div>When opening DJster for the first time it automatically tries to load a file called basic.cents.txt containing the definitions of some well-known scales.</div>
 <div></div>
 <div>
-<blockquote>pentatonic 0 200 400 700 900 1200
-whole-tone 0 200 400 600 800 1000 1200
-major 0 200 400 500 700 900 1100 1200
-dorian 0 200 300 500 700 900 1000 1200
-mixolydian 0 200 400 500 700 900 1000 1200
-minor-harmonic 0 200 300 500 700 800 1100 1200
-gipsy 0 200 300 600 700 900 1000 1200
-phrygian 0 100 300 500 700 800 1000 1200
-octatonic 0 200 300 500 600 800 900 1100 1200
-whole-half-half 0 200 300 400 600 700 800 1000 1100 1200
-chromatic 0 100 200 300 400 500 600 700 800 900 1000 1100 1200</blockquote>
+<blockquote>
+* pentatonic 0 200 400 700 900 1200
+* whole-tone 0 200 400 600 800 1000 1200
+* major 0 200 400 500 700 900 1100 1200
+* dorian 0 200 300 500 700 900 1000 1200
+* mixolydian 0 200 400 500 700 900 1000 1200
+* minor-harmonic 0 200 300 500 700 800 1100 1200
+* gipsy 0 200 300 600 700 900 1000 1200
+* phrygian 0 100 300 500 700 800 1000 1200
+* octatonic 0 200 300 500 600 800 900 1100 1200
+* whole-half-half 0 200 300 400 600 700 800 1000 1100 1200
+* chromatic 0 100 200 300 400 500 600 700 800 900 1000 1100 1200</blockquote>
 </div>
 <div></div>
 <div>Each line contains the name of a scale and the cent values for the steps in between the frame at which the scale will be replicated, usually the octave.</div>
@@ -42,13 +43,13 @@ chromatic 0 100 200 300 400 500 600 700 800 900 1000 1100 1200</blockquote>
 <div>The basic.meters.txt contains the stratifications of a meter which is either multiplicative or additive. Strata only consist of prime number divisors, usually 2 and 3. A 4 meter will be represented as 2 2.</div>
 <div>
 <blockquote>
-2 2 2
-2 2 3
-3 2 3
-3 3 2
-3 3 3
-2 2 2 2
-2 2 2 3
+* 2 2 2
+* 2 2 3
+* 3 2 3
+* 3 3 2
+* 3 3 3
+* 2 2 2 2
+* 2 2 2 3
 </blockquote>
 Besides using 5, 7 or higher prime numbers, additive meters can also be represented by twos and threes combined by a plus sign, such as 2+3 or 3+2+2.
 
