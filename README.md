@@ -42,15 +42,15 @@ Repository for the DJster software
 <div><strong>Meter</strong></div>
 <div>The basic.meters.txt contains the stratifications of a meter which is either multiplicative or additive. Strata only consist of prime number divisors, usually 2 and 3. A 4 meter will be represented as 2 2.</div>
 <div>
-
-* 2 2 2
-* 2 2 3
-* 3 2 3
-* 3 3 2
-* 3 3 3
-* 2 2 2 2
-* 2 2 2 3
-
+<blockquote>
+2 2 2<div>
+2 2 3<div>
+3 2 3<div>
+3 3 2<div>
+3 3 3<div>
+2 2 2 2<div>
+2 2 2 3<div>
+<blockquote>
 Besides using 5, 7 or higher prime numbers, additive meters can also be represented by twos and threes combined by a plus sign, such as 2+3 or 3+2+2.
 
 You can create and load your own meter sets which will be displayed in the DJster meter menu.
