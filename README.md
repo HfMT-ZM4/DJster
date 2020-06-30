@@ -3,11 +3,11 @@ Repository for the DJster software
 
 <strong>Installation</strong>
 <ol>
-	<li>Use the installer version for your platform</li>
-	<li>Make sure you set Max application in the Live preferences to Max 6.1</li>
-	<li>Locate DJster.als in the Ableton User Library and open the file.</li>
-	<li>Set Mode to "key"</li>
-	<li>Turn player on by clicking on the Stream button</li>
+	<li>Clone the DJster repository to Max 8/Packages</li>
+	<li>Add the folder inside of Max 8/Packages/DJster/Add-Enclosed-Folder-To-Ableton-Live to Ableton Live so that it appears in Places</li>
+	<li>Locate DJster.als in the Djster folder (in Places) and open the file.</li>
+	<li>If necessary, set Mode to "key" in the DJster device</li>
+	<li>Turn player on by clicking on the Live Play Button</li>
 	<li>Set Eventfulness to a value greater than 0</li>
 	<li>You should now be able to hear the sounds</li>
 </ol>
